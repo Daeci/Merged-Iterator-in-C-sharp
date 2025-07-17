@@ -1,1 +1,2 @@
 # Merged-Iterator-in-C-sharp
+A little exploration into creating a merged iterator class in C#. Currently implemented at an O(n*m) time complexity with n being the amount of iterators in the input list and m being the total amount of integers being iterated over across all input iterators combined. There might be a more efficient method but this was the best I could come with at this time :).
